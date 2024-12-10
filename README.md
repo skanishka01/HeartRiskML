@@ -38,8 +38,8 @@ Ensemble Learning: An ensemble approach was employed to combine the strengths of
 ## *Installation*
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/HeartDiseasePrediction.git
-   cd HeartDiseasePrediction
+   git clone https://github.com/skanishka01/HeartRiskML.git
+   cd HeartRiskML
    
 2. Install dependencies:
    bash
@@ -49,20 +49,24 @@ Ensemble Learning: An ensemble approach was employed to combine the strengths of
    bash
    python app.py
    
-4. Open http://127.0.0.1:5000 in your browser.
+4. Open http://127.0.0.1:5500 in your browser.
 
 
 ## Results
 Random Forest achieved promising metrics individually.
-Ensemble Model outperformed all individual models, achieving an accuracy of 91.22%, Precision : 90%, Recall: 88% ,F1 Score: 89%  
+Ensemble Model outperformed all individual models, achieving an accuracy of 94%, Precision : 90%, Recall: 92% ,F1 Score: 91%  
 ## Conclusion
 This project highlights the importance of robust preprocessing and ensemble strategies in building reliable predictive systems. The synergy of diverse machine learning models proves especially effective for healthcare applications, providing valuable insights for heart disease prediction.
-
 
 Demo of this project:-
 ![Screenshot 2024-12-11 001004](https://github.com/user-attachments/assets/7b35d127-4df7-4ef0-8623-b52722073391)
 ![Screenshot 2024-12-11 002043](https://github.com/user-attachments/assets/382f950c-ef42-404d-8e6f-7a07d3babcfc)
 ![image](https://github.com/user-attachments/assets/fbe18eab-7e20-4e2d-b379-224d19a5aa0f)
-
-
+[requirements.txt](https://github.com/user-attachments/files/18084949/requirements.txt)Flask==2.3.3
+Flask-Cors==3.0.10
+numpy==1.25.0
+pandas==1.5.3
+scikit-learn==1.3.0
+tensorflow==2.13.0
+joblib==1.3.2
 
