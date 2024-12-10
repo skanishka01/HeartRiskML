@@ -68,7 +68,7 @@ This project highlights the importance of robust preprocessing and ensemble stra
 Demo of this project:-
 ![Screenshot 2024-12-11 001004](https://github.com/user-attachments/assets/7b35d127-4df7-4ef0-8623-b52722073391)
 ![Screenshot 2024-12-11 002043](https://github.com/user-attachments/assets/382f950c-ef42-404d-8e6f-7a07d3babcfc)
-![image](https://github.com/user-attachments/assets/1f522c36-844f-434d-8c8b-b8c862189cd0)
-![image](https://github.com/user-attachments/assets/164d0eb5-2dca-4039-9c18-9e9ab5074141)
+![image](https://github.com/user-attachments/assets/fbe18eab-7e20-4e2d-b379-224d19a5aa0f)
+
 
 
