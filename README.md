@@ -8,11 +8,11 @@ The model was trained using the [Heart Disease Dataset](https://www.kaggle.com/c
   - Age, gender, chest pain type, blood pressure, cholesterol levels, etc.
 - *Target*: Binary classification of heart disease risk (High/Low).  
 
-## Key Features
+## *Key Features*
 Data Preprocessing: Robust preprocessing techniques and outlier handling were implemented to improve data quality and model performance.
 Ensemble Learning: An ensemble approach was employed to combine the strengths of individual models, resulting in improved predictive accuracy.
 
-## Project Structure
+## *Project Structure*
   ![image](https://github.com/user-attachments/assets/a7de8860-5fd9-4011-85b8-364e18b34887)
 
 ## *Installation*
@@ -31,7 +31,7 @@ Ensemble Learning: An ensemble approach was employed to combine the strengths of
    
 4. Open http://127.0.0.1:5500 in your browser.
 
-## Model Details
+## *Model Details*
 - *Neural Network*:
   - Framework: Keras  
   - Layers: Input, Hidden (3 layers), Output  
@@ -46,10 +46,10 @@ Ensemble Learning: An ensemble approach was employed to combine the strengths of
 - *Ensemble*:
   - Weighted voting scheme for final prediction.
  
-## Results
+## *Results*
 Random Forest achieved promising metrics individually.
 Ensemble Model outperformed all individual models, achieving an accuracy of 94%, Precision : 90%, Recall: 92% ,F1 Score: 91%  
-## Conclusion
+## *Conclusion*
 This project highlights the importance of robust preprocessing and ensemble strategies in building reliable predictive systems. The synergy of diverse machine learning models proves especially effective for healthcare applications, providing valuable insights for heart disease prediction.
 
 Demo of this project:-
