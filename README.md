@@ -62,11 +62,3 @@ Demo of this project:-
 ![Screenshot 2024-12-11 001004](https://github.com/user-attachments/assets/7b35d127-4df7-4ef0-8623-b52722073391)
 ![Screenshot 2024-12-11 002043](https://github.com/user-attachments/assets/382f950c-ef42-404d-8e6f-7a07d3babcfc)
 ![image](https://github.com/user-attachments/assets/fbe18eab-7e20-4e2d-b379-224d19a5aa0f)
-[requirements.txt](https://github.com/user-attachments/files/18084949/requirements.txt)Flask==2.3.3
-Flask-Cors==3.0.10
-numpy==1.25.0
-pandas==1.5.3
-scikit-learn==1.3.0
-tensorflow==2.13.0
-joblib==1.3.2
-
