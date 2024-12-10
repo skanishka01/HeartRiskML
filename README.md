@@ -20,26 +20,20 @@ By analyzing critical features , the project leverages several machine learning 
 Data Preprocessing: Robust preprocessing techniques and outlier handling were implemented to improve data quality and model performance.
 Ensemble Learning: An ensemble approach was employed to combine the strengths of individual models, resulting in improved predictive accuracy.
 
-## *Project Structure*
-
-HeartDiseasePrediction/
-├── dataset/
-│   └── heart.csv
-├── models/
-│   ├── nn.keras
-│   ├── svm.pkl
-│   ├── knn.pkl
-│   ├── randomForest.pkl
-│   ├── logistic.pkl
-│   └── ensemble.pkl
-├── static/
-│   └── style.css
-├── templates/
-│   ├── form.html
-│   ├── result.html
-├── app.py
-├── README.md
-└── requirements.txt
+## Model Details
+- *Neural Network*:
+  - Framework: Keras  
+  - Layers: Input, Hidden (3 layers), Output  
+- *K-Nearest Neighbors*:
+  - Neighbors: 5  
+- *Support Vector Machine*:
+  - Kernel: Radial Basis Function (RBF)  
+- *Logistic Regression*:
+  - Regularization: L2  
+- *Random Forest*:
+  - Trees: 100  
+- *Ensemble*:
+  - Weighted voting scheme for final prediction.  
 
 ## *Installation*
 1. Clone the repository:
