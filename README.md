@@ -1,4 +1,7 @@
 # HeartRiskML
+
+Deployed Link= https://skanishka01.github.io/Heart-risk-ml/
+
 Heart Disease Risk Prediction using Ensemble Learning
 
 This project demonstrates the application of machine learning techniques for classification tasks, with a focus on healthcare-related applications such as heart disease detection.
